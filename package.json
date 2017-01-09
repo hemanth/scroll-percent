@@ -1,0 +1,26 @@
+{
+  "name": "scroll-precent",
+  "version": "0.0.0",
+  "description": "Get percentage of scroll.",
+  "license": "MIT",
+  "repository": "hemanth/scroll-precent",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "scroll",
+    "present",
+    "browser"
+  ],
+  "dependencies": {
+    "is-browser": "^2.0.1"
+  }
+}

@@ -4,13 +4,13 @@
 ## Install
 
 ```
-$ npm install --save scroll-precent
+$ npm install --save @hemanth/scroll-precent
 ```
 
 ## Usage
 
 ```js
-const scrollPrecent = require('scroll-precent');
+const scrollPrecent = require('@hemanth/scroll-precent');
 
 document.addEventListener('scroll', () => {
 	console.log(scrollPrecent()); //0-100

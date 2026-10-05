@@ -1,6 +1,6 @@
 {
   "name": "@hemanth/scroll-precent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get percentage of scroll.",
   "license": "MIT",
   "repository": "hemanth/scroll-precent",
@@ -21,6 +21,9 @@
     "browser"
   ],
   "dependencies": {
-    "is-browser": "^2.0.1"
+    "is-browser": "^2.1.0"
+  },
+  "scripts": {
+    "test": "node --check index.js"
   }
 }
